@@ -1,3 +1,5 @@
+#![allow(unused_extern_crates)]
+
 extern crate cargo_patch_test_dependency;
 
 #[cfg(test)]
